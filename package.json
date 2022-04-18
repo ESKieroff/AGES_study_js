@@ -1,0 +1,19 @@
+{
+  "name": "ages_study_js",
+  "version": "1.0.0",
+  "description": "Study of Javascript and similar programming languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ESKieroff/AGES_study_js.git"
+  },
+  "author": "ESkieroff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ESKieroff/AGES_study_js/issues"
+  },
+  "homepage": "https://github.com/ESKieroff/AGES_study_js#readme"
+}
